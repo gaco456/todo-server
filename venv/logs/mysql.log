@@ -1,0 +1,82 @@
+[2019-11-06 16:37:25,745 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-06 16:37:25,745 | LV:DEBUG | logAgent.py:39 ] 2019-11-06 16:37:25
+[2019-11-06 16:37:25,844 | LV:DEBUG | mysql.py:20 ] [  Successfully Load DB Config  ]
+[2019-11-06 16:37:25,845 | LV:DEBUG | mysql.py:93 ] [  Successfully Load DB Query  ]
+[2019-11-06 16:37:25,845 | LV:DEBUG | mysql.py:61 ] [  Initialize table  ]
+[2019-11-06 16:37:25,857 | LV:DEBUG | mysql.py:78 ] [  Successfully Initialize table ]
+[2019-11-06 16:39:10,951 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-06 16:39:10,951 | LV:DEBUG | logAgent.py:39 ] 2019-11-06 16:39:10
+[2019-11-06 16:39:11,049 | LV:DEBUG | mysql.py:20 ] [  Successfully Load DB Config  ]
+[2019-11-06 16:39:11,049 | LV:DEBUG | mysql.py:21 ] DB HOST : localhost
+[2019-11-06 16:39:11,049 | LV:DEBUG | mysql.py:22 ] DB USER : root
+[2019-11-06 16:39:11,049 | LV:DEBUG | mysql.py:23 ] DB DB : todo
+[2019-11-06 16:39:11,050 | LV:DEBUG | mysql.py:92 ] [  Successfully Load DB Query  ]
+[2019-11-06 16:39:11,056 | LV:DEBUG | mysql.py:69 ] Create Query : CREATE_USER_TABLE
+[2019-11-06 16:39:11,057 | LV:DEBUG | mysql.py:69 ] Create Query : CREATE_TODO_TABLE
+[2019-11-06 16:39:11,058 | LV:DEBUG | mysql.py:69 ] Create Query : TEST
+[2019-11-06 16:39:11,059 | LV:DEBUG | mysql.py:77 ] [ Successfully Initialize table ]
+[2019-11-06 16:39:25,893 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-06 16:39:25,893 | LV:DEBUG | logAgent.py:39 ] 2019-11-06 16:39:25
+[2019-11-06 16:39:25,990 | LV:DEBUG | mysql.py:20 ] [  Successfully Load DB Config  ]
+[2019-11-06 16:39:25,991 | LV:DEBUG | mysql.py:89 ] [  Successfully Load DB Query  ]
+[2019-11-06 16:39:25,998 | LV:DEBUG | mysql.py:66 ] Create Query : CREATE_USER_TABLE
+[2019-11-06 16:39:25,998 | LV:DEBUG | mysql.py:66 ] Create Query : CREATE_TODO_TABLE
+[2019-11-06 16:39:26,000 | LV:DEBUG | mysql.py:66 ] Create Query : TEST
+[2019-11-06 16:39:26,001 | LV:DEBUG | mysql.py:74 ] [ Successfully Initialize table ]
+[2019-11-06 16:40:16,481 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-06 16:40:16,481 | LV:DEBUG | logAgent.py:39 ] 2019-11-06 16:40:16
+[2019-11-06 16:40:16,582 | LV:DEBUG | mysql.py:20 ] [  Successfully Load DB Config  ]
+[2019-11-06 16:40:16,583 | LV:DEBUG | mysql.py:90 ] [  Successfully Load DB Query  ]
+[2019-11-06 16:40:16,589 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_USER_TABLE
+[2019-11-06 16:40:16,590 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_TODO_TABLE
+[2019-11-06 16:40:16,591 | LV:DEBUG | mysql.py:44 ] Create Query : TEST
+[2019-11-06 16:40:16,591 | LV:DEBUG | mysql.py:52 ] [ Successfully Initialize table ]
+[2019-11-06 16:41:32,995 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-06 16:41:32,995 | LV:DEBUG | logAgent.py:39 ] 2019-11-06 16:41:32
+[2019-11-06 16:41:33,094 | LV:DEBUG | mysql.py:20 ] [  Successfully Load DB Config  ]
+[2019-11-06 16:41:33,095 | LV:DEBUG | mysql.py:90 ] [  Successfully Load DB Query  ]
+[2019-11-06 16:41:33,101 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_USER_TABLE
+[2019-11-06 16:41:33,102 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_TODO_TABLE
+[2019-11-06 16:41:33,103 | LV:DEBUG | mysql.py:52 ] [ Successfully Initialize table ]
+[2019-11-06 16:55:11,725 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-06 16:55:11,725 | LV:DEBUG | logAgent.py:39 ] 2019-11-06 16:55:11
+[2019-11-06 16:55:11,834 | LV:DEBUG | mysql.py:20 ] [  Successfully Load DB Config  ]
+[2019-11-06 16:55:11,835 | LV:DEBUG | mysql.py:90 ] [  Successfully Load DB Query  ]
+[2019-11-06 16:55:11,858 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_USER_TABLE
+[2019-11-06 16:55:11,859 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_TODO_TABLE
+[2019-11-06 16:55:11,860 | LV:DEBUG | mysql.py:52 ] [ Successfully Initialize table ]
+[2019-11-06 17:05:59,015 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-06 17:05:59,015 | LV:DEBUG | logAgent.py:39 ] 2019-11-06 17:05:59
+[2019-11-06 17:05:59,131 | LV:DEBUG | mysql.py:20 ] [  Successfully Load DB Config  ]
+[2019-11-06 17:05:59,131 | LV:DEBUG | mysql.py:89 ] [  Successfully Load DB Query  ]
+[2019-11-06 17:05:59,139 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_USER_TABLE
+[2019-11-06 17:05:59,141 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_TODO_TABLE
+[2019-11-06 17:05:59,159 | LV:DEBUG | mysql.py:52 ] [ Successfully Initialize table ]
+[2019-11-06 17:07:07,950 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-06 17:07:07,950 | LV:DEBUG | logAgent.py:39 ] 2019-11-06 17:07:07
+[2019-11-06 17:07:08,049 | LV:DEBUG | mysql.py:20 ] [  Successfully Load DB Config  ]
+[2019-11-06 17:07:08,049 | LV:DEBUG | mysql.py:90 ] [  Successfully Load DB Query  ]
+[2019-11-06 17:07:08,056 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_USER_TABLE
+[2019-11-06 17:07:08,057 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_TODO_TABLE
+[2019-11-06 17:07:08,058 | LV:DEBUG | mysql.py:52 ] [ Successfully Initialize table ]
+[2019-11-06 17:07:40,106 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-06 17:07:40,106 | LV:DEBUG | logAgent.py:39 ] 2019-11-06 17:07:40
+[2019-11-06 17:07:40,205 | LV:DEBUG | mysql.py:20 ] [  Successfully Load DB Config  ]
+[2019-11-06 17:07:40,205 | LV:DEBUG | mysql.py:89 ] [  Successfully Load DB Query  ]
+[2019-11-06 17:07:40,212 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_USER_TABLE
+[2019-11-06 17:07:40,213 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_TODO_TABLE
+[2019-11-06 17:07:40,214 | LV:DEBUG | mysql.py:52 ] [ Successfully Initialize table ]
+[2019-11-06 17:18:20,276 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-06 17:18:20,276 | LV:DEBUG | logAgent.py:39 ] 2019-11-06 17:18:20
+[2019-11-06 17:18:20,382 | LV:DEBUG | mysql.py:20 ] [  Successfully Load DB Config  ]
+[2019-11-06 17:18:20,383 | LV:DEBUG | mysql.py:89 ] [  Successfully Load DB Query  ]
+[2019-11-06 17:18:20,390 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_USER_TABLE
+[2019-11-06 17:18:20,391 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_TODO_TABLE
+[2019-11-06 17:18:20,392 | LV:DEBUG | mysql.py:52 ] [ Successfully Initialize table ]
+[2019-11-06 17:25:14,305 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-06 17:25:14,306 | LV:DEBUG | logAgent.py:39 ] 2019-11-06 17:25:14
+[2019-11-06 17:25:14,402 | LV:DEBUG | mysql.py:20 ] [  Successfully Load DB Config  ]
+[2019-11-06 17:25:14,403 | LV:DEBUG | mysql.py:89 ] [  Successfully Load DB Query  ]
+[2019-11-06 17:25:14,409 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_USER_TABLE
+[2019-11-06 17:25:14,418 | LV:DEBUG | mysql.py:44 ] Create Query : CREATE_TODO_TABLE
+[2019-11-06 17:25:14,419 | LV:DEBUG | mysql.py:52 ] [ Successfully Initialize table ]

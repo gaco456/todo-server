@@ -1,0 +1,22 @@
+{
+    "CREATE" :
+    {
+        "CREATE_USER_TABLE" : "CREATE TABLE IF NOT EXISTS `user` (`userid` VARCHAR(12) NOT NULL, `passwd` VARCHAR(100) NOT NULL, `passwdsalt` VARCHAR(100) NOT NULL, PRIMARY KEY (`userid`))COLLATE='utf8_general_ci'ENGINE=InnoDB;"
+    },
+    "INSERT" :
+    {
+        "INSERT_USER" :"INSERT INTO `user` (`userid`, `passwd`,`passwdsalt`) VALUES (%s, %s , %s);"
+    },
+    "DELETE" :
+    {
+        "DELETE_USER" : "DELETE FROM `user` WHERE  `userid`=%s;"
+    },
+    "SELECT" :
+    {
+        "QUERY_PASSWORD_BY_USERID" : "SELECT `passwd` , `passwdsalt` FROM user WHERE userid = %s;"
+    },
+    "UPDATE" :
+    {
+        "UPDATE_USER_PASSWORD" : "UPDATE `user` SET `passwd`=%s , `passwdsalt`=%s WHERE `userid`=%s;"
+    }
+}

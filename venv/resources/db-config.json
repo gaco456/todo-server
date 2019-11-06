@@ -1,0 +1,6 @@
+{
+    "HOST" : "localhost",
+    "USER" : "root",
+    "PASSWD" : "dbadmin01",
+    "DB" : "todo"
+}

@@ -1,0 +1,7 @@
+{
+    "CREATE" :
+    {
+        "CREATE_TODO_TABLE" : "CREATE TABLE IF NOT EXISTS `todo-list` (`own_user` VARCHAR(12) NOT NULL,`subject` VARCHAR(255) NOT NULL,`status` TINYINT(2) NOT NULL DEFAULT '0', `date` DATETIME NOT NULL, INDEX `userid` (`own_user`), CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`))COLLATE='utf8_general_ci'ENGINE=InnoDB;"
+    }
+}
+
