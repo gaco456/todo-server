@@ -5,12 +5,18 @@ import hashlib
 from Crypto import Random
 from Crypto.Cipher import AES
 
+from uuid import getnode as get_mac
 
 class Defender():
 
-    def __init__(self, key):
-        self.bs = 32
-        self.key = hashlib.sha256(Defender.str_to_bytes(key)).digest()
+    def __init__(self, key = None):
+        if key is not None:
+            self.bs = 32
+            self.key = hashlib.sha256(Defender.str_to_bytes(key)).digest()
+        else:
+            secret = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyaWQiOiJ0ZXN0In0.9l5enKJWg8RetbakZGiKe7P8Bci4Bthp6ODLOv-eikw"
+            self.bs = 32
+            self.key = hashlib.sha256(Defender.str_to_bytes(secret)).digest()
 
     @staticmethod
     def str_to_bytes(data):
@@ -51,3 +57,6 @@ class Defender():
 
         return hash.decode('utf-8') , salt.decode('utf-8')
 
+    def get_mac(self):
+        mac = get_mac()
+        return mac

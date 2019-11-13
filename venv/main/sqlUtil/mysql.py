@@ -7,6 +7,20 @@ Logger = LogAgent("mysql").get_logger()
 
 resourcesDir = "../resources/"
 
+
+class CursorByName():
+    def __init__(self, cursor):
+        self._cursor = cursor
+
+    def __iter__(self):
+        return self
+
+    def __next__(self):
+        row = self._cursor.__next__()
+
+        return {description[0]: row[col] for col, description in enumerate(self._cursor.description)}
+
+
 class EasySql:
 
     prop_type = Enum('props', 'account todo')
@@ -52,11 +66,11 @@ class EasySql:
         Logger.debug("[ Successfully Initialize table ]")
 
     # excute qry
-    def excute_query(self, prop ,crud_type, query_name , *value):
+    def excute_query(self, prop ,crud_type, query_name  , *value):
 
         # print(self.qry[prop.name][crud][query_name])
         conn = self.mysql.connect()
-        result = None
+        ret_result = None
 
         try:
             with conn.cursor() as cursor:
@@ -64,14 +78,22 @@ class EasySql:
                 cursor.execute(sql , value)
                 result = cursor.fetchall()
 
+                des = cursor.description
+                ret_result = []
+                for ri , res in enumerate(result):
+                    tmp_dict = {}
+                    for idx , val in enumerate(res):
+                        tmp_dict[des[idx][0]] = val
+                    ret_result.append(tmp_dict)
+
         except Exception as e:
-            return result, e.__str__()
+            return None, e.__str__()
 
         finally:
             conn.commit()
             conn.close()
 
-        return result, None
+        return ret_result, None
 
 
 

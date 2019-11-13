@@ -1,0 +1,1492 @@
+[2019-11-08 11:33:38,877 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 11:33:38,877 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 11:33:38
+[2019-11-08 11:33:41,505 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:33:49,214 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:33:56,333 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:34:03,004 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:34:03,499 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:34:04,469 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:34:10,838 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:35:29,327 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 11:35:29,327 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 11:35:29
+[2019-11-08 11:35:31,630 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:35:36,717 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:37:22,583 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 11:37:22,583 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 11:37:22
+[2019-11-08 11:37:31,439 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:37:38,856 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:37:39,289 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:37:45,099 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:37:57,408 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:37:59,285 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:38:00,560 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:38:03,248 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:38:19,060 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:38:53,083 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:38:54,861 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:39:19,727 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:39:23,940 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:39:28,264 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:39:32,444 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:39:33,585 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:39:36,124 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:39:47,031 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:39:52,540 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:39:56,404 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:39:56,726 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:39:58,145 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:39:58,665 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:39:59,200 | LV:DEBUG | server.py:158 ] result: todo insert fail ~ (1452, 'Cannot add or update a child row: a foreign key constraint fails (`todo`.`todo-list`, CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON DELETE CASCADE ON UPDATE CASCADE)')
+[2019-11-08 11:40:01,196 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 11:52:57,113 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 11:52:57,113 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 11:52:57
+[2019-11-08 11:53:39,447 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 11:53:39,447 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 11:53:39
+[2019-11-08 11:56:11,128 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 11:56:11,128 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 11:56:11
+[2019-11-08 13:48:07,488 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 13:48:07,489 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 13:48:07
+[2019-11-08 13:48:18,827 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 13:48:18,827 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 13:48:18
+[2019-11-08 14:07:38,993 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 14:07:38,993 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 14:07:38
+[2019-11-08 14:09:50,761 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 14:09:50,761 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 14:09:50
+[2019-11-08 14:10:13,820 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 14:10:20,761 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 14:10:30,419 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 14:28:26,739 | LV:DEBUG | server.py:155 ] result:todo insert succ
+[2019-11-08 14:29:09,602 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 14:29:09,602 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 14:29:09
+[2019-11-08 14:29:47,868 | LV:DEBUG | server.py:156 ] result:todo insert succ
+[2019-11-08 14:29:51,165 | LV:DEBUG | server.py:156 ] result:todo insert succ
+[2019-11-08 14:31:13,827 | LV:DEBUG | server.py:156 ] result:todo insert succ
+[2019-11-08 15:20:05,918 | LV:DEBUG | server.py:156 ] result:todo insert succ
+[2019-11-08 15:20:24,303 | LV:DEBUG | server.py:156 ] result:todo insert succ
+[2019-11-08 15:38:14,602 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:38:14,602 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:38:14
+[2019-11-08 15:39:34,559 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 15:39:50,863 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 15:42:33,166 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:42:33,166 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:42:33
+[2019-11-08 15:42:39,777 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 15:46:30,383 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:46:30,383 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:46:30
+[2019-11-08 15:46:38,208 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 15:48:01,376 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 15:48:43,469 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:48:43,469 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:48:43
+[2019-11-08 15:48:53,667 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 15:49:48,049 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:49:48,049 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:49:48
+[2019-11-08 15:49:54,031 | LV:DEBUG | server.py:168 ] result: todo insert fail ~ 'NoneType' object is not iterable
+[2019-11-08 15:49:59,025 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 15:52:13,883 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 15:53:40,120 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:53:40,120 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:53:40
+[2019-11-08 15:53:44,977 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 15:55:42,029 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:55:42,029 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:55:42
+[2019-11-08 15:56:33,349 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:56:33,349 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:56:33
+[2019-11-08 15:56:45,555 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 15:57:05,533 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:57:05,533 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:57:05
+[2019-11-08 15:57:09,857 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 15:58:31,009 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:58:31,010 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:58:31
+[2019-11-08 15:58:37,745 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 15:58:55,428 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:58:55,428 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:58:55
+[2019-11-08 15:59:30,599 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:59:30,599 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:59:30
+[2019-11-08 15:59:58,854 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 15:59:58,854 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 15:59:58
+[2019-11-08 16:00:21,670 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:00:21,670 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:00:21
+[2019-11-08 16:00:38,883 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 16:12:32,196 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:12:32,196 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:12:32
+[2019-11-08 16:12:51,750 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:12:51,750 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:12:51
+[2019-11-08 16:14:29,948 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:14:29,948 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:14:29
+[2019-11-08 16:15:56,772 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:15:56,772 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:15:56
+[2019-11-08 16:16:06,728 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:16:06,728 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:16:06
+[2019-11-08 16:17:15,662 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:17:15,662 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:17:15
+[2019-11-08 16:17:40,666 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:17:40,666 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:17:40
+[2019-11-08 16:18:25,857 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:18:25,857 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:18:25
+[2019-11-08 16:20:57,559 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:20:57,559 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:20:57
+[2019-11-08 16:21:28,553 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:21:28,553 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:21:28
+[2019-11-08 16:38:06,031 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:38:06,031 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:38:06
+[2019-11-08 16:39:22,219 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:39:22,219 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:39:22
+[2019-11-08 16:42:38,975 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:42:38,975 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:42:38
+[2019-11-08 16:43:19,899 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:43:19,899 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:43:19
+[2019-11-08 16:43:39,658 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:43:39,658 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:43:39
+[2019-11-08 16:44:26,515 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:44:26,515 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:44:26
+[2019-11-08 16:44:57,438 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:44:57,439 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:44:57
+[2019-11-08 16:45:13,740 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:45:13,740 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:45:13
+[2019-11-08 16:45:32,053 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:45:32,053 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:45:32
+[2019-11-08 16:45:51,698 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:45:51,698 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:45:51
+[2019-11-08 16:46:23,809 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:46:23,809 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:46:23
+[2019-11-08 16:46:57,219 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:46:57,219 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:46:57
+[2019-11-08 16:48:20,259 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:48:20,259 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:48:20
+[2019-11-08 16:50:05,915 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:50:05,916 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:50:05
+[2019-11-08 16:50:17,756 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:50:17,757 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:50:17
+[2019-11-08 16:50:35,057 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:50:35,057 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:50:35
+[2019-11-08 16:50:51,538 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:50:51,538 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:50:51
+[2019-11-08 16:50:54,663 | LV:DEBUG | server.py:147 ] result: todo select fail ~ tuple index out of range
+[2019-11-08 16:51:35,491 | LV:DEBUG | server.py:147 ] result: todo select fail ~ tuple index out of range
+[2019-11-08 16:51:44,971 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:51:44,971 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:51:44
+[2019-11-08 16:51:55,953 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 16:52:02,295 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 16:52:05,472 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:52:05,472 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:52:05
+[2019-11-08 16:52:50,868 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:52:50,868 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:52:50
+[2019-11-08 16:52:52,753 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 16:53:50,113 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:53:50,113 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:53:50
+[2019-11-08 16:53:52,957 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 16:54:03,410 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 16:55:14,226 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:55:14,226 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:55:14
+[2019-11-08 16:55:47,447 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:55:47,447 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:55:47
+[2019-11-08 16:56:14,405 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:56:14,405 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:56:14
+[2019-11-08 16:56:31,907 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:56:31,907 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:56:31
+[2019-11-08 16:58:08,879 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:58:08,879 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:58:08
+[2019-11-08 16:59:20,782 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 16:59:20,782 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 16:59:20
+[2019-11-08 16:59:23,628 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:05:44,881 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-08 17:05:44,881 | LV:DEBUG | logAgent.py:39 ] 2019-11-08 17:05:44
+[2019-11-08 17:05:49,945 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:05:49,948 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:06:57,955 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:06:57,957 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:09:39,435 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:09:39,437 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:09:43,586 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 17:10:01,249 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:10:01,251 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:11:11,305 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:11:11,318 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:11:12,563 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 17:11:12,567 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:11:12,578 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:12:04,443 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:12:04,445 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:12:06,124 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 17:12:06,127 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:12:06,140 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:12:19,308 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 17:12:19,311 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:12:19,324 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:13:02,145 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:13:02,146 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:13:04,396 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 17:13:04,399 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:13:04,412 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:13:08,178 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 17:13:08,181 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:13:08,194 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:13:19,417 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:13:19,419 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:13:21,021 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 17:13:21,023 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:13:21,036 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:13:23,275 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 17:13:23,278 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:13:23,291 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:16:49,930 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:16:49,932 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:16:55,932 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 17:16:55,935 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:16:55,948 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:19:41,329 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:19:41,331 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:20:27,113 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:20:27,125 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:32:47,057 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:32:47,059 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:33:52,490 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:33:52,491 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:33:55,447 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 17:33:55,450 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:33:55,462 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:35:34,579 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:35:34,581 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:36:19,890 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:36:19,892 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:46:18,300 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:46:18,310 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:47:10,426 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:47:10,428 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:47:17,356 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:47:17,357 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:52:22,539 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:52:22,541 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:54:31,420 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:54:31,422 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:55:44,099 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:55:44,112 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:56:15,252 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:56:15,254 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:56:41,843 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:56:41,845 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:57:18,668 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:57:18,670 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 17:57:37,683 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 17:57:37,685 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:07:02,845 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:07:02,847 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:09:05,516 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:09:05,529 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:12:21,115 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:12:21,129 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:12:36,819 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:12:36,821 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:13:31,301 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:13:31,303 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:13:50,349 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:13:50,351 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:14:12,612 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:14:12,614 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:14:15,943 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:14:15,946 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:14:15,958 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:14:18,081 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:14:18,084 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:14:18,096 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:14:21,032 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:14:21,037 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:14:21,040 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:14:29,703 | LV:DEBUG | server.py:168 ] result: todo insert fail ~ (1406, "Data too long for column 'subject' at row 1")
+[2019-11-08 18:14:29,706 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:14:29,718 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:14:34,288 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:14:34,292 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:14:34,305 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:14:45,576 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:14:45,579 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:14:45,592 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:14:48,462 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:14:48,466 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:14:48,476 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:15:01,324 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:15:01,326 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:15:04,673 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:15:04,677 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:15:04,679 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:15:07,371 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:15:07,374 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:15:07,386 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:15:09,546 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:15:09,550 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:15:09,562 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:15:11,392 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:15:11,395 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:15:11,408 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:15:13,009 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:15:13,015 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:15:13,027 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:15:15,062 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:15:15,065 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:15:15,078 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:15:16,877 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:15:16,881 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:15:16,893 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:18:25,336 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:18:25,339 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:18:25,342 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:18:27,910 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:18:27,913 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:18:27,915 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:18:30,247 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:18:30,250 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:18:30,262 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:18:32,086 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:18:32,090 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:18:32,092 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:18:37,935 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:18:37,939 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:18:37,951 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:19:16,437 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:19:16,439 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:38:30,798 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:38:30,800 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:38:58,863 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:38:58,867 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:38:58,879 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:39:24,453 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:39:24,456 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:39:54,498 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:39:54,502 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:39:54,515 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:39:56,773 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:39:56,777 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:39:56,779 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:48:01,021 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:48:01,024 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:48:10,808 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 18:48:10,811 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:48:10,824 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 18:49:16,560 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 18:49:16,572 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:54:53,680 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:54:53,698 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:55:23,525 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 21:55:23,539 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:55:23,556 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:55:25,936 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 21:55:25,950 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:55:25,959 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:56:52,772 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:56:52,789 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:57:57,540 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:57:57,542 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:58:14,207 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:58:14,213 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:59:30,848 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:59:30,865 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:59:39,095 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 21:59:39,117 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:59:39,129 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:59:45,678 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 21:59:45,725 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:59:45,740 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:59:48,426 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 21:59:48,437 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:59:48,452 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:59:51,093 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 21:59:51,108 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:59:51,127 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:59:53,686 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 21:59:53,694 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:59:53,709 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:59:56,117 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 21:59:56,133 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:59:56,151 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 21:59:58,589 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-08 21:59:58,597 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 21:59:58,613 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-08 22:02:08,590 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-08 22:02:08,596 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 11:36:27,070 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-11 11:36:27,070 | LV:DEBUG | logAgent.py:39 ] 2019-11-11 11:36:27
+[2019-11-11 11:43:13,218 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-11 11:43:13,218 | LV:DEBUG | logAgent.py:39 ] 2019-11-11 11:43:13
+[2019-11-11 11:43:28,342 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 11:43:28,344 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 11:47:08,461 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-11 11:47:08,461 | LV:DEBUG | logAgent.py:39 ] 2019-11-11 11:47:08
+[2019-11-11 11:51:16,309 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 11:51:16,311 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 11:51:19,734 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 11:51:19,737 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 11:51:19,739 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 11:51:19,752 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:16:06,868 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:16:06,870 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:18:09,221 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:18:09,222 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:19:07,931 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:19:07,933 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:19:11,009 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:19:11,023 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:19:11,027 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:19:11,039 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:19:44,268 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:19:44,270 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:22:47,917 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:22:47,930 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:23:01,899 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:23:01,900 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:23:03,249 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:23:03,252 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:23:03,256 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:23:03,268 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:23:19,132 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:23:19,144 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:23:20,417 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:23:20,430 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:23:20,439 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:23:20,459 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:23:45,293 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:23:45,294 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:23:47,635 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:23:47,647 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:23:47,650 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:23:47,662 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:26:01,116 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:26:01,118 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:26:02,473 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:26:02,475 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:26:02,479 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:26:02,492 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:26:04,123 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:26:04,125 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:26:04,134 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:26:04,154 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:26:08,606 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:26:08,619 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:26:08,623 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:26:08,637 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:26:17,341 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:26:17,343 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:26:17,347 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:26:17,359 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:27:16,483 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:27:16,484 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:32:16,933 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:32:16,935 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:32:35,493 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:32:35,505 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:32:39,972 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:32:39,974 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:32:43,517 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:32:43,519 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:32:44,918 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:32:44,922 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:32:44,925 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:32:44,937 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:32:46,339 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:32:46,352 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:32:46,355 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:32:46,368 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:32:48,076 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:32:48,079 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:32:48,082 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:32:48,093 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:32:49,708 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:32:49,721 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:32:49,725 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:32:49,737 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:32:58,102 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:32:58,103 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:32:59,404 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 13:32:59,418 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 13:32:59,424 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:32:59,437 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:33:03,076 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:33:03,089 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:51:46,310 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:51:46,322 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 13:52:58,350 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 13:52:58,362 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 14:15:27,188 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 14:15:27,190 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 14:16:01,710 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 14:16:01,713 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 14:16:21,439 | LV:DEBUG | server.py:140 ] [  TODO QUERY  ]
+[2019-11-11 14:16:21,452 | LV:DEBUG | server.py:144 ] result:todo select succ
+[2019-11-11 14:58:12,732 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 14:58:12,752 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 14:58:13,283 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 14:58:13,298 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 14:58:13,636 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 14:58:13,651 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 14:58:35,508 | LV:DEBUG | server.py:157 ] [  TODO INSERT  ]
+[2019-11-11 14:58:35,524 | LV:DEBUG | server.py:165 ] result:todo insert succ
+[2019-11-11 17:45:43,332 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-11 17:45:43,333 | LV:DEBUG | logAgent.py:39 ] 2019-11-11 17:45:43
+[2019-11-11 17:58:38,895 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-11 17:58:38,895 | LV:DEBUG | logAgent.py:39 ] 2019-11-11 17:58:38
+[2019-11-11 18:12:04,901 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-11 18:12:57,942 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-11 18:13:28,916 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-11 18:17:59,117 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-11 18:18:58,670 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-11 18:22:58,109 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-12 13:20:08,867 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-12 13:20:10,021 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-12 13:20:10,181 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-12 13:20:10,309 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-12 13:20:10,884 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-12 13:20:12,668 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-12 13:20:46,003 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-12 13:20:46,022 | LV:DEBUG | server.py:168 ] result:todo insert succ
+[2019-11-12 13:20:46,597 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-12 13:20:46,614 | LV:DEBUG | server.py:168 ] result:todo insert succ
+[2019-11-12 13:20:46,788 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-12 13:20:46,802 | LV:DEBUG | server.py:168 ] result:todo insert succ
+[2019-11-12 13:20:47,027 | LV:DEBUG | server.py:160 ] [  TODO INSERT  ]
+[2019-11-12 13:20:47,041 | LV:DEBUG | server.py:168 ] result:todo insert succ
+[2019-11-12 13:32:58,804 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-12 13:32:58,804 | LV:DEBUG | logAgent.py:39 ] 2019-11-12 13:32:58
+[2019-11-12 13:33:31,358 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-12 13:33:31,358 | LV:DEBUG | logAgent.py:39 ] 2019-11-12 13:33:31
+[2019-11-12 13:40:53,573 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 13:40:53,586 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 13:40:53,982 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 13:40:53,991 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 14:57:38,841 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 14:57:38,858 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 14:57:39,138 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 14:57:39,153 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 14:57:39,464 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 14:57:39,479 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:10:17,771 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:10:17,789 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:10:18,603 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:10:18,619 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:16:09,018 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:16:09,035 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:17:13,931 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:17:13,949 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:17:16,379 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:17:16,395 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:17:16,681 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:17:16,696 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:17:17,052 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:17:17,066 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:17:17,226 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:17:17,239 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:17:17,361 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:17:17,375 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:17:17,531 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:17:17,546 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:17:17,793 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:17:17,809 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:17:17,930 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:17:17,943 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:18:06,570 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:18:06,583 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:18:07,667 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:18:07,682 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:18:13,027 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:18:13,045 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:18:13,499 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:18:13,515 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:18:13,739 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:18:13,743 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:18:14,081 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:18:14,095 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:18:14,289 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:18:14,304 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:18:17,939 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:18:17,955 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:19:55,066 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:19:55,083 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:19:55,475 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:19:55,489 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:19:57,914 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:19:57,921 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:19:58,122 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:19:58,136 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:19:58,356 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:19:58,371 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:22:40,492 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:22:40,507 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:25:24,506 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:25:24,524 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:25:53,490 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:25:53,508 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:25:54,836 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:25:54,850 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:25:55,419 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:25:55,432 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:25:55,644 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:25:55,658 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:26:24,018 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:26:24,032 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:26:25,660 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:26:25,668 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:28:23,509 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:28:23,526 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:28:24,452 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:28:24,469 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:28:25,516 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:28:25,533 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:28:54,940 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:28:54,945 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:28:56,580 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:28:56,596 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:28:56,811 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:28:56,827 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:28:57,027 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:28:57,042 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:30:22,523 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:30:22,536 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:30:22,683 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:30:22,696 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:30:22,955 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:30:22,970 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:30:23,131 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:30:23,144 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:30:23,291 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:30:23,294 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:30:23,450 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:30:23,463 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:35:50,205 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:35:50,222 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:35:50,556 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:35:50,564 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:35:50,804 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:35:50,818 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:35:51,036 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:35:51,050 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:35:51,364 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:35:51,380 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:35:51,538 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:35:51,552 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:35:51,707 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:35:51,721 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:35:51,941 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:35:51,957 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:30,731 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:30,747 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:30,915 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:30,929 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:31,195 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:31,207 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:32,092 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:32,106 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:32,268 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:32,272 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:32,443 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:32,456 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:32,628 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:32,642 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:32,828 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:32,841 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:33,003 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:33,007 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:33,178 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:33,192 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:47,292 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:47,311 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:47,451 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:47,465 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:47,651 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:47,664 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:37:47,781 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:37:47,784 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:38:04,437 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:38:04,455 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:38:04,637 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:38:04,649 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:38:04,932 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:38:04,946 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:38:05,084 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:38:05,099 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:38:05,259 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:38:05,274 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:38:05,492 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:38:05,508 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:38:05,651 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:38:05,666 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:38:07,589 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:38:07,593 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:38:07,738 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:38:07,741 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:38:08,027 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:38:08,041 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:43:42,676 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:43:42,687 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:43:42,819 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:43:42,832 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:43:42,987 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:43:43,001 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:47:30,668 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:47:30,685 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:47:30,852 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:47:30,864 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 15:50:21,323 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 15:50:21,341 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 16:38:50,480 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:38:50,484 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:41:03,693 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:41:03,697 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:41:17,071 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:41:17,074 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:42:02,166 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:42:02,179 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:42:22,573 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:42:22,576 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:42:44,968 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:42:44,971 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:42:55,181 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:42:55,196 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:43:10,639 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:43:10,643 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:43:52,228 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:43:52,231 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:43:53,539 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 16:43:53,553 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 16:43:55,337 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 16:43:55,350 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 16:44:50,065 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:44:50,079 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:44:51,413 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 16:44:51,416 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 16:48:19,440 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:48:19,444 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:48:19,448 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:48:19,462 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:48:35,127 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:48:35,141 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:48:55,968 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:48:55,971 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:49:05,486 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:49:05,499 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:49:21,951 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:49:21,954 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 16:54:16,409 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 16:54:16,412 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:01:57,807 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:01:57,822 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:02:11,727 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:02:11,730 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:02:22,031 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:02:22,035 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:03:10,584 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:03:10,588 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:05:10,614 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:05:10,618 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:05:21,949 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:05:21,952 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:05:30,498 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:05:30,512 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:06:19,615 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:06:19,618 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:06:47,977 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:06:47,981 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:07:21,896 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:07:21,912 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:07:32,810 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:07:32,826 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:08:37,097 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:08:37,101 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:08:56,425 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:08:56,440 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:09:12,929 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:09:12,930 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:09:40,881 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:09:40,883 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:10:18,543 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:10:18,556 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:10:36,985 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:10:36,987 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:10:38,328 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 17:10:38,331 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 17:10:39,837 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 17:10:39,850 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 17:10:44,015 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:10:44,017 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:11:00,426 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:11:00,438 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:11:51,842 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:11:51,855 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:12:14,446 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:12:14,458 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:12:28,528 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:12:28,541 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:14:08,079 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:14:08,093 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:14:09,318 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 17:14:09,320 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 17:14:09,323 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:14:09,326 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:19:12,592 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:19:12,594 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:19:23,754 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:19:23,766 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:19:42,091 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:19:42,103 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:19:44,045 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 17:19:44,059 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 17:19:44,062 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:19:44,074 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:19:46,800 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 17:19:46,812 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 17:19:46,816 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:19:46,818 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:49:23,290 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:49:23,293 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:49:26,429 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 17:49:26,442 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 17:49:26,445 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:49:26,458 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:49:29,123 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 17:49:29,126 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 17:49:29,130 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:49:29,132 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:49:32,822 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 17:49:32,824 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 17:49:32,828 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:49:32,840 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:49:34,919 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 17:49:34,921 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 17:49:34,924 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:49:34,937 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:55:55,589 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:55:55,591 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:56:29,346 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:56:29,358 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:56:51,787 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:56:51,789 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:57:04,826 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:57:04,828 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 17:57:52,512 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 17:57:52,514 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:03:13,172 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:03:13,184 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:03:35,122 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:03:35,124 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:03:42,275 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:03:42,278 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:04:14,268 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:04:14,270 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:04:41,728 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 18:04:41,732 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 18:04:41,736 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:04:41,749 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:09:33,001 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:09:33,004 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:09:44,955 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:09:44,958 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:10:18,786 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:10:18,789 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:10:48,844 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:10:48,846 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:11:36,164 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:11:36,177 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:13:18,222 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:13:18,225 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:14:25,055 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:14:25,066 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:14:28,878 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:14:28,892 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:14:33,759 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:14:33,770 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:14:35,983 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 18:14:35,986 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 18:14:35,989 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:14:36,002 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:14:39,958 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:14:39,971 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:14:46,562 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 18:14:46,564 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 18:14:46,568 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:14:46,581 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:14:47,904 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 18:14:47,917 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 18:14:47,920 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:14:47,923 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:14:52,358 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:14:52,372 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:15:06,001 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:15:06,003 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:15:10,519 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:15:10,531 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:15:24,601 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:15:24,602 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:16:19,375 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:16:19,388 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:16:32,040 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:16:32,051 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:17:09,535 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:17:09,548 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:17:14,321 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:17:14,332 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:17:56,695 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:17:56,708 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:18:00,936 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:18:00,948 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:18:08,489 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:18:08,501 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:20:20,295 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:20:20,308 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:20:23,785 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:20:23,787 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:20:30,634 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:20:30,645 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:20:32,833 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 18:20:32,846 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 18:20:32,849 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:20:32,861 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:20:36,582 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:20:36,595 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:20:40,192 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:20:40,206 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:20:45,179 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:20:45,181 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:21:03,959 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:21:03,971 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:21:08,254 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:21:08,268 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:22:09,484 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:22:09,496 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:22:14,698 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:22:14,709 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:22:30,689 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:22:30,702 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:22:35,344 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:22:35,357 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:22:58,326 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:22:58,329 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:23:03,866 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:23:03,879 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:23:39,175 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:23:39,188 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:23:44,265 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:23:44,278 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:23:57,418 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:23:57,431 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:24:33,953 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:24:33,966 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:24:39,483 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:24:39,485 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:25:17,465 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:25:17,477 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:25:24,337 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:25:24,350 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:25:35,024 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:25:35,027 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:26:21,535 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:26:21,538 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:26:38,113 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:26:38,126 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:26:49,824 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:26:49,838 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:26:54,079 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:26:54,092 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:27:21,948 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:27:21,950 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:27:28,880 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:27:28,883 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:27:47,427 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:27:47,440 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:27:54,072 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:27:54,074 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:27:56,073 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 18:27:56,076 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 18:27:56,079 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:27:56,082 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:27:57,019 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-12 18:27:57,022 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-12 18:27:57,026 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:27:57,038 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:28:00,845 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:28:00,848 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:28:47,104 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:28:47,116 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:31:22,512 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:31:22,525 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:31:26,503 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:31:26,505 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:34:06,358 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:34:06,360 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:34:18,138 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:34:18,150 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:34:21,863 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:34:21,876 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:35:08,264 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:35:08,276 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-12 18:35:11,922 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-12 18:35:11,936 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:45:16,538 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:45:16,550 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:45:20,337 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:45:20,348 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:47:04,015 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:47:04,017 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:47:15,745 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:47:15,758 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:47:21,408 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:47:21,410 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:48:34,032 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:48:34,034 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:48:38,309 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:48:38,312 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:49:18,232 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:49:18,245 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:53:38,447 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:53:38,461 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:53:42,480 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:53:42,493 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:53:46,479 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:53:46,492 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:54:22,522 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:54:22,533 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:54:23,818 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-13 09:54:23,821 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-13 09:54:23,825 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:54:23,827 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:54:26,453 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-13 09:54:26,456 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-13 09:54:26,459 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:54:26,472 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:54:34,320 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:54:34,333 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 09:54:50,618 | LV:DEBUG | server.py:162 ] [  TODO INSERT  ]
+[2019-11-13 09:54:50,632 | LV:DEBUG | server.py:170 ] result:todo insert succ
+[2019-11-13 09:54:50,635 | LV:DEBUG | server.py:145 ] [  TODO QUERY  ]
+[2019-11-13 09:54:50,648 | LV:DEBUG | server.py:149 ] result:todo select succ
+[2019-11-13 10:06:13,609 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 10:06:13,609 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 10:06:13
+[2019-11-13 10:07:40,914 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:07:40,926 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:07:42,222 | LV:DEBUG | server.py:167 ] result: todo delete fail ~ %d format: a number is required, not str
+[2019-11-13 10:07:50,235 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:07:50,248 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:08:22,887 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 10:08:22,887 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 10:08:22
+[2019-11-13 10:08:27,320 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:08:27,323 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:08:31,140 | LV:DEBUG | server.py:169 ] result: todo delete fail ~ %d format: a number is required, not str
+[2019-11-13 10:11:11,730 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:11:11,742 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:11:12,854 | LV:DEBUG | server.py:169 ] result: todo delete fail ~ %d format: a number is required, not str
+[2019-11-13 10:11:15,412 | LV:DEBUG | server.py:169 ] result: todo delete fail ~ %d format: a number is required, not str
+[2019-11-13 10:11:31,532 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 10:11:31,532 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 10:11:31
+[2019-11-13 10:11:33,887 | LV:DEBUG | server.py:166 ] result:todo delete succ
+[2019-11-13 10:11:35,854 | LV:DEBUG | server.py:166 ] result:todo delete succ
+[2019-11-13 10:11:38,007 | LV:DEBUG | server.py:166 ] result:todo delete succ
+[2019-11-13 10:11:49,434 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:11:49,447 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:11:51,696 | LV:DEBUG | server.py:166 ] result:todo delete succ
+[2019-11-13 10:12:21,746 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:12:21,758 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:12:22,890 | LV:DEBUG | server.py:166 ] result:todo delete succ
+[2019-11-13 10:12:24,319 | LV:DEBUG | server.py:166 ] result:todo delete succ
+[2019-11-13 10:12:25,732 | LV:DEBUG | server.py:166 ] result:todo delete succ
+[2019-11-13 10:12:27,694 | LV:DEBUG | server.py:166 ] result:todo delete succ
+[2019-11-13 10:12:31,350 | LV:DEBUG | server.py:166 ] result:todo delete succ
+[2019-11-13 10:12:32,901 | LV:DEBUG | server.py:166 ] result:todo delete succ
+[2019-11-13 10:12:35,008 | LV:DEBUG | server.py:166 ] result:todo delete succ
+[2019-11-13 10:12:37,455 | LV:DEBUG | server.py:166 ] result:todo delete succ
+[2019-11-13 10:12:43,600 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:12:43,602 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:22:24,112 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:22:24,114 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:23:03,225 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:23:03,237 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:26:52,192 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:26:52,204 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:29:02,767 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:29:02,770 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:29:05,072 | LV:DEBUG | server.py:179 ] [  TODO INSERT  ]
+[2019-11-13 10:29:05,086 | LV:DEBUG | server.py:187 ] result:todo insert succ
+[2019-11-13 10:29:05,089 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:29:05,102 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:29:12,547 | LV:DEBUG | server.py:179 ] [  TODO INSERT  ]
+[2019-11-13 10:29:12,560 | LV:DEBUG | server.py:190 ] result: todo insert fail ~ (1406, "Data too long for column 'subject' at row 1")
+[2019-11-13 10:29:14,570 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:29:14,573 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:30:27,648 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:30:27,650 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:51:19,224 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:51:19,226 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:51:39,800 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:51:39,803 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:51:45,236 | LV:DEBUG | server.py:179 ] [  TODO INSERT  ]
+[2019-11-13 10:51:45,249 | LV:DEBUG | server.py:187 ] result:todo insert succ
+[2019-11-13 10:51:45,253 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:51:45,255 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:54:25,698 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:54:25,701 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 10:56:55,410 | LV:DEBUG | server.py:143 ] [  TODO QUERY  ]
+[2019-11-13 10:56:55,423 | LV:DEBUG | server.py:147 ] result:todo select succ
+[2019-11-13 11:06:17,666 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:06:17,666 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:06:17
+[2019-11-13 11:07:10,779 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:07:10,779 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:07:10
+[2019-11-13 11:08:46,998 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:08:46,998 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:08:46
+[2019-11-13 11:09:23,005 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:09:23,005 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:09:23
+[2019-11-13 11:10:04,755 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:10:04,755 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:10:04
+[2019-11-13 11:10:19,760 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:10:19,760 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:10:19
+[2019-11-13 11:11:06,077 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:11:06,077 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:11:06
+[2019-11-13 11:11:51,954 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:11:51,954 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:11:51
+[2019-11-13 11:12:06,652 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:12:06,652 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:12:06
+[2019-11-13 11:12:41,629 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:12:41,629 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:12:41
+[2019-11-13 11:13:28,237 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:13:28,237 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:13:28
+[2019-11-13 11:13:55,736 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:13:55,736 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:13:55
+[2019-11-13 11:16:43,432 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:16:43,432 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:16:43
+[2019-11-13 11:17:09,060 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:17:09,060 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:17:09
+[2019-11-13 11:18:10,158 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:18:10,158 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:18:10
+[2019-11-13 11:19:08,598 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:19:08,598 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:19:08
+[2019-11-13 11:19:33,413 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:19:33,413 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:19:33
+[2019-11-13 11:21:40,393 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:21:40,393 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:21:40
+[2019-11-13 11:22:38,454 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:22:38,454 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:22:38
+[2019-11-13 11:23:01,865 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:23:01,865 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:23:01
+[2019-11-13 11:23:14,303 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:23:14,303 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:23:14
+[2019-11-13 11:24:26,090 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:24:26,091 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:24:26
+[2019-11-13 11:24:59,734 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:24:59,734 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:24:59
+[2019-11-13 11:26:21,961 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:26:21,961 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:26:21
+[2019-11-13 11:27:51,982 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:27:51,982 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:27:51
+[2019-11-13 11:40:16,002 | LV:DEBUG | server.py:154 ] [  TODO QUERY  ]
+[2019-11-13 11:40:16,015 | LV:DEBUG | server.py:158 ] result:todo select succ
+[2019-11-13 11:40:52,626 | LV:DEBUG | server.py:154 ] [  TODO QUERY  ]
+[2019-11-13 11:40:52,628 | LV:DEBUG | server.py:158 ] result:todo select succ
+[2019-11-13 11:41:35,683 | LV:DEBUG | server.py:154 ] [  TODO QUERY  ]
+[2019-11-13 11:41:35,686 | LV:DEBUG | server.py:158 ] result:todo select succ
+[2019-11-13 11:41:48,331 | LV:DEBUG | server.py:154 ] [  TODO QUERY  ]
+[2019-11-13 11:41:48,333 | LV:DEBUG | server.py:158 ] result:todo select succ
+[2019-11-13 11:41:57,924 | LV:DEBUG | server.py:154 ] [  TODO QUERY  ]
+[2019-11-13 11:41:57,927 | LV:DEBUG | server.py:158 ] result:todo select succ
+[2019-11-13 11:42:39,278 | LV:DEBUG | server.py:154 ] [  TODO QUERY  ]
+[2019-11-13 11:42:39,292 | LV:DEBUG | server.py:158 ] result:todo select succ
+[2019-11-13 11:51:07,876 | LV:DEBUG | server.py:154 ] [  TODO QUERY  ]
+[2019-11-13 11:51:07,878 | LV:DEBUG | server.py:158 ] result:todo select succ
+[2019-11-13 11:53:16,310 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:53:16,310 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:53:16
+[2019-11-13 11:53:48,917 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:53:48,917 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:53:48
+[2019-11-13 11:54:47,030 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:54:47,030 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:54:47
+[2019-11-13 11:58:17,146 | LV:DEBUG | server.py:167 ] [  TODO QUERY  ]
+[2019-11-13 11:58:17,159 | LV:DEBUG | server.py:171 ] result:todo select succ
+[2019-11-13 11:59:04,750 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:59:04,750 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:59:04
+[2019-11-13 11:59:11,827 | LV:DEBUG | server.py:167 ] [  TODO QUERY  ]
+[2019-11-13 11:59:11,839 | LV:DEBUG | server.py:171 ] result:todo select succ
+[2019-11-13 11:59:57,451 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 11:59:57,451 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 11:59:57
+[2019-11-13 12:00:06,474 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 12:00:06,486 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 12:00:39,015 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 12:00:39,015 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 12:00:39
+[2019-11-13 12:00:44,402 | LV:DEBUG | server.py:167 ] [  TODO QUERY  ]
+[2019-11-13 12:00:44,416 | LV:DEBUG | server.py:171 ] result:todo select succ
+[2019-11-13 12:01:36,355 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 12:01:36,355 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 12:01:36
+[2019-11-13 12:01:42,355 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 12:01:42,367 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 12:01:57,850 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 12:01:57,850 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 12:01:57
+[2019-11-13 12:02:03,019 | LV:DEBUG | server.py:165 ] [  TODO QUERY  ]
+[2019-11-13 12:02:03,032 | LV:DEBUG | server.py:169 ] result:todo select succ
+[2019-11-13 12:02:20,202 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 12:02:20,202 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 12:02:20
+[2019-11-13 12:02:24,210 | LV:DEBUG | server.py:166 ] [  TODO QUERY  ]
+[2019-11-13 12:02:24,222 | LV:DEBUG | server.py:170 ] result:todo select succ
+[2019-11-13 12:03:11,892 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 12:03:11,893 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 12:03:11
+[2019-11-13 12:03:16,233 | LV:DEBUG | server.py:168 ] [  TODO QUERY  ]
+[2019-11-13 12:03:16,245 | LV:DEBUG | server.py:172 ] result:todo select succ
+[2019-11-13 12:03:31,442 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 12:03:31,442 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 12:03:31
+[2019-11-13 12:03:35,188 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 12:03:35,200 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 12:04:39,080 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 12:04:39,080 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 12:04:39
+[2019-11-13 12:04:43,523 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 12:04:43,526 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 12:05:24,936 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 12:05:24,936 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 12:05:24
+[2019-11-13 12:05:30,105 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 12:05:30,118 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 12:58:44,225 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 12:58:44,226 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 12:58:44
+[2019-11-13 12:58:49,660 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 12:58:49,671 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 12:59:02,301 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 12:59:02,314 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 12:59:27,335 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 12:59:27,335 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 12:59:27
+[2019-11-13 12:59:33,420 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 12:59:33,432 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:01:50,641 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:01:50,654 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:02:43,287 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:02:43,300 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:04:11,847 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:04:11,849 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:04:43,744 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:04:43,746 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:05:10,377 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:05:10,379 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:10:14,984 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:10:14,997 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:11:28,818 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:11:28,830 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:11:42,994 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:11:43,006 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:12:36,833 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:12:36,846 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:13:01,088 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:13:01,101 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:20:56,599 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:20:56,602 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:21:47,415 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:21:47,428 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:23:19,802 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:23:19,815 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:31:04,224 | LV:DEBUG | server.py:169 ] [  TODO QUERY  ]
+[2019-11-13 13:31:04,236 | LV:DEBUG | server.py:173 ] result:todo select succ
+[2019-11-13 13:31:36,072 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 13:31:36,072 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 13:31:36
+[2019-11-13 13:31:41,674 | LV:DEBUG | server.py:161 ] [  TODO QUERY  ]
+[2019-11-13 13:31:41,686 | LV:DEBUG | server.py:165 ] result:todo select succ
+[2019-11-13 13:32:29,244 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 13:32:29,244 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 13:32:29
+[2019-11-13 13:32:34,311 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:32:34,323 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:37:00,657 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:37:00,659 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:37:10,121 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:37:10,123 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:37:39,978 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:37:39,990 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:37:41,546 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 13:37:41,549 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 13:37:41,552 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:37:41,565 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:37:43,100 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 13:37:43,102 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 13:37:43,106 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:37:43,118 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:37:44,198 | LV:DEBUG | server.py:182 ] result:todo delete succ
+[2019-11-13 13:37:45,540 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 13:37:45,554 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 13:37:45,558 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:37:45,570 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:37:46,948 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 13:37:46,962 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 13:37:46,968 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:37:46,982 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:37:48,797 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 13:37:48,810 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 13:37:48,814 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:37:48,826 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:38:13,170 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:38:13,181 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:39:53,369 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:39:53,370 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:41:23,168 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:41:23,181 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:41:39,737 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:41:39,739 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:41:41,587 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 13:41:41,590 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 13:41:41,594 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:41:41,605 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:42:35,593 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:42:35,595 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:42:45,906 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:42:45,918 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:42:56,531 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:42:56,534 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:43:16,675 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:43:16,686 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:44:36,833 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:44:36,845 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:45:33,361 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:45:33,374 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:46:49,946 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:46:49,958 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:47:42,210 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:47:42,222 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:48:05,372 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:48:05,384 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:48:07,613 | LV:DEBUG | server.py:182 ] result:todo delete succ
+[2019-11-13 13:48:57,914 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:48:57,915 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:49:54,285 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:49:54,298 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:50:14,399 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:50:14,412 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:51:20,511 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:51:20,523 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 13:52:49,158 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 13:52:49,160 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:02:40,423 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:02:40,435 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:02:50,159 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:02:50,172 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:07:00,383 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:07:00,396 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:07:22,238 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:07:22,251 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:22:16,879 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:22:16,891 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:23:47,519 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:23:47,531 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:25:31,137 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:25:31,150 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:26:22,055 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:26:22,067 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:26:38,719 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:26:38,731 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:26:40,484 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:26:40,498 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:26:40,502 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:26:40,514 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:26:41,701 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:26:41,714 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:26:41,720 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:26:41,734 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:26:42,813 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:26:42,816 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:26:42,819 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:26:42,822 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:26:44,166 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:26:44,169 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:26:44,172 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:26:44,186 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:26:45,838 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:26:45,850 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:26:45,856 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:26:45,869 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:26:46,974 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:26:46,986 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:26:46,989 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:26:46,992 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:27:27,296 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:27:27,310 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:27:37,039 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:27:37,052 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:27:43,464 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:27:43,476 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:28:21,920 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:28:21,934 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:28:25,525 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:28:25,539 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:28:25,541 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:28:25,554 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:28:27,438 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:28:27,453 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:28:27,456 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:28:27,468 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:28:28,894 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:28:28,908 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:28:28,911 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:28:28,924 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:28:30,791 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:28:30,793 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:28:30,801 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:28:30,821 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:28:32,254 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:28:32,268 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:28:32,272 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:28:32,283 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:28:53,265 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:28:53,275 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:30:31,894 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:30:31,906 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:30:51,889 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:30:51,901 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:32:31,583 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:32:31,596 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:32:39,456 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:32:39,469 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:32:57,028 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:32:57,040 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:33:10,655 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:33:10,667 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:33:44,232 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:33:44,243 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:34:10,825 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:34:10,836 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:34:28,208 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:34:28,219 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:35:11,720 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:35:11,732 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:35:13,471 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:35:13,474 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:35:13,477 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:35:13,479 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:35:14,893 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:35:14,906 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:35:14,910 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:35:14,922 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:35:16,111 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:35:16,124 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:35:16,127 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:35:16,139 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:35:17,566 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:35:17,569 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:35:17,572 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:35:17,575 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:35:18,751 | LV:DEBUG | server.py:203 ] [  TODO INSERT  ]
+[2019-11-13 14:35:18,754 | LV:DEBUG | server.py:211 ] result:todo insert succ
+[2019-11-13 14:35:18,758 | LV:DEBUG | server.py:160 ] [  TODO QUERY  ]
+[2019-11-13 14:35:18,770 | LV:DEBUG | server.py:164 ] result:todo select succ
+[2019-11-13 14:38:41,969 | LV:DEBUG | logAgent.py:38 ] ----------------------------------------------------
+[2019-11-13 14:38:41,969 | LV:DEBUG | logAgent.py:39 ] 2019-11-13 14:38:41
+[2019-11-13 14:38:46,713 | LV:DEBUG | server.py:165 ] [  TODO QUERY  ]
+[2019-11-13 14:38:46,726 | LV:DEBUG | server.py:169 ] result:todo select succ
+[2019-11-13 15:26:26,687 | LV:DEBUG | server.py:165 ] [  TODO QUERY  ]
+[2019-11-13 15:26:26,700 | LV:DEBUG | server.py:169 ] result:todo select succ
+[2019-11-13 15:26:27,834 | LV:DEBUG | server.py:208 ] [  TODO INSERT  ]
+[2019-11-13 15:26:27,836 | LV:DEBUG | server.py:216 ] result:todo insert succ
+[2019-11-13 15:26:27,839 | LV:DEBUG | server.py:165 ] [  TODO QUERY  ]
+[2019-11-13 15:26:27,842 | LV:DEBUG | server.py:169 ] result:todo select succ
+[2019-11-13 15:26:28,956 | LV:DEBUG | server.py:187 ] result:todo delete succ
+[2019-11-13 15:26:30,161 | LV:DEBUG | server.py:208 ] [  TODO INSERT  ]
+[2019-11-13 15:26:30,163 | LV:DEBUG | server.py:216 ] result:todo insert succ
+[2019-11-13 15:26:30,167 | LV:DEBUG | server.py:165 ] [  TODO QUERY  ]
+[2019-11-13 15:26:30,178 | LV:DEBUG | server.py:169 ] result:todo select succ
+[2019-11-13 15:26:31,489 | LV:DEBUG | server.py:208 ] [  TODO INSERT  ]
+[2019-11-13 15:26:31,492 | LV:DEBUG | server.py:216 ] result:todo insert succ
+[2019-11-13 15:26:31,496 | LV:DEBUG | server.py:165 ] [  TODO QUERY  ]
+[2019-11-13 15:26:31,508 | LV:DEBUG | server.py:169 ] result:todo select succ
+[2019-11-13 15:26:33,626 | LV:DEBUG | server.py:208 ] [  TODO INSERT  ]
+[2019-11-13 15:26:33,630 | LV:DEBUG | server.py:216 ] result:todo insert succ
+[2019-11-13 15:26:33,633 | LV:DEBUG | server.py:165 ] [  TODO QUERY  ]
+[2019-11-13 15:26:33,646 | LV:DEBUG | server.py:169 ] result:todo select succ
+[2019-11-13 15:26:34,825 | LV:DEBUG | server.py:208 ] [  TODO INSERT  ]
+[2019-11-13 15:26:34,827 | LV:DEBUG | server.py:216 ] result:todo insert succ
+[2019-11-13 15:26:34,835 | LV:DEBUG | server.py:165 ] [  TODO QUERY  ]
+[2019-11-13 15:26:34,854 | LV:DEBUG | server.py:169 ] result:todo select succ
+[2019-11-13 15:26:36,065 | LV:DEBUG | server.py:208 ] [  TODO INSERT  ]
+[2019-11-13 15:26:36,068 | LV:DEBUG | server.py:216 ] result:todo insert succ
+[2019-11-13 15:26:36,071 | LV:DEBUG | server.py:165 ] [  TODO QUERY  ]
+[2019-11-13 15:26:36,084 | LV:DEBUG | server.py:169 ] result:todo select succ
+[2019-11-13 15:26:50,783 | LV:DEBUG | server.py:165 ] [  TODO QUERY  ]
+[2019-11-13 15:26:50,785 | LV:DEBUG | server.py:169 ] result:todo select succ

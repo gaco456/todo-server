@@ -1,7 +1,23 @@
 {
     "CREATE" :
     {
-        "CREATE_TODO_TABLE" : "CREATE TABLE IF NOT EXISTS `todo-list` (`own_user` VARCHAR(12) NOT NULL,`subject` VARCHAR(255) NOT NULL,`status` TINYINT(2) NOT NULL DEFAULT '0', `date` DATETIME NOT NULL, INDEX `userid` (`own_user`), CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`))COLLATE='utf8_general_ci'ENGINE=InnoDB;"
+        "CREATE_TODO_TABLE" : "CREATE TABLE IF NOT EXISTS `todo-list` (`todo_no` INT(11) UNSIGNED NOT NULL AUTO_INCREMENT,`own_user` VARCHAR(12) NOT NULL,`subject` VARCHAR(255) NOT NULL,`status` TINYINT(2) NOT NULL DEFAULT '0',`date` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,PRIMARY KEY (`todo_no`),INDEX `userid` (`own_user`),CONSTRAINT `userid` FOREIGN KEY (`own_user`) REFERENCES `user` (`userid`) ON UPDATE CASCADE ON DELETE CASCADE)COLLATE='utf8_general_ci'ENGINE=InnoDB;"
+    },
+    "INSERT" :
+    {
+        "INSERT_NEW_TODO" :   "INSERT INTO `todo-list` (`own_user`, `subject`) VALUES (%s, %s);"
+    },
+    "SELECT" :
+    {
+        "QUERY_TODO_BY_USERID" : "SELECT `todo_no` , `subject` , `date` , `status` from `todo-list` where own_user = %s"
+    },
+    "DELETE" :
+    {
+        "DELETE_TODO_BY_TODO_NO" : "DELETE FROM `todo`.`todo-list` WHERE  `todo_no`= %s;"
+    },
+    "UPDATE" :
+    {
+        "UPDATE_TODO_BY_TODO_NO" : "UPDATE `todo`.`todo-list` SET `subject`='%s' WHERE  `todo_no`=%s;"
     }
 }
 
